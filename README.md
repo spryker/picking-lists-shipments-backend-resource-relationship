@@ -4,6 +4,9 @@
 
 The PickingListsShipmentsBackendResourceRelationship module provides the relationship between picking lists and shipments resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/shipments-backend-api](https://github.com/spryker/shipments-backend-api) instead.
+
 ## Installation
 
 ```
